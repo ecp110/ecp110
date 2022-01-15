@@ -2,5 +2,5 @@
 - 👀 I’m interested in optimisation algorithms, machine learning, web app services and tech-based financial analysis. 
 - 🌱 I'm learning front-end development at the moment, as well as more advanced python data anlysis and web scraping.
 - 📚 I’m currently studying a combined Bachelors of Advanced Computing (Computational Data Science) / Bachelors of Commerce (Finance) at the University of Sydney, graduating at the end of 2024.
-- 💡 Some projects I'm interested in include: financial or company sentiment scraping and analysis and an integrated fitness and health platform.
+- 💡 Some projects I'm working on in include: financial portfolio tracking, financial sentiment scraping & analysis, and an integrated fitness and health platform.
 - 📫 Reach me at https://www.linkedin.com/in/ethan-proutt-a91466188/ or ethan.proutt@gmail.com
